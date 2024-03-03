@@ -14,6 +14,9 @@ This repository contains a Python script for analyzing Walmart store sales data.
 - **Model Evaluation**: Evaluate model performance using metrics such as mean absolute error, mean squared error, and root mean squared error.
 - **Interactive Plots**: Visualize the model predictions using interactive scatter plots.
 
+## Dataset 
+The dataset has been downloaded from https://www.kaggle.com/datasets/aditya6196/retail-analysis-with-walmart-data
+
 ## Requirements
 
 - Python 3.x
