@@ -1,4 +1,4 @@
-# SuperStore Analysis
+# Superstore Analysis
 
 This repository contains a Python script for analyzing Walmart store sales data. The script utilizes various data visualization techniques to explore sales trends, identify key insights, and build predictive models.
 
